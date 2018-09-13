@@ -1,0 +1,115 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: oldlace;
+
+}
+
+ .header {
+    height: 70px;
+    background: cadetblue;
+    color: #fff;
+    font-size: 20px;
+}
+h3#app_name {
+    margin: 0;
+    padding: 16px;
+    text-align: center;
+    font-family: arial;
+}
+.container{
+	width:900px;
+	margin:0 auto;
+}
+label#search_label {
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+}
+p#font-big {
+    font-size: 20px;
+    font-family: arial;
+    letter-spacing: 2px;
+}
+button, input[type="submit"] {
+    background: cadetblue;
+    color: #fff;
+    font-family: arial;
+    border: none;
+    height: 28px;
+    font-size: 17px;
+}
+input[type="text"] {
+    padding: 5px;
+    border: 1px solid;
+}
+
+
+h2#welcome-heading {
+    text-align: center;
+    font-size: 30px;
+    font-family: arial;
+    color: seagreen;
+}
+.signup-form, .login_form {
+    width: 350px;
+    margin: 0 auto;
+}
+form#login_form {
+    padding: 40px;
+    font-family: arial;
+}
+footer {
+    height: 50px;
+    background: black;
+}
+
+p#copyright {
+    text-align: center;
+    padding: 20px;
+    font-family: arial;
+    color:#fff;
+}
+.body-content {
+    height: 250px;
+}
+h3#app_name_logo {
+    margin: 0;
+    padding: 20px;
+    font-family: arial;
+    float:left;
+    color: greenyellow;
+}
+ul#menu li {
+    list-style-type: none;
+    display: inline;
+}
+.menu {
+    float: right;
+    
+}
+ul#menu li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+    font-family: arial;
+    font-size: 14px;
+}
+ul#menu li a:hover {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+    font-family: arial;
+    font-size: 14px;
+    background: darkcyan;
+}
+.menu {
+    float: right;
+    margin-right: 25px;
+    margin-top: 24px;
+}
+.new-student-form,.new-book-form {
+    width: 400px;
+    float:left;
+    padding: 20px;
+}
